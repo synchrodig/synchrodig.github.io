@@ -26,7 +26,7 @@
 
 title: Your Technology Companion
 email: job.county@yahoo.com
-author: GitHub User
+author: GitHub User Synchrodig
 
 # Copyright setting
 # You can use any html code, currently below placeholders are available:
@@ -43,9 +43,7 @@ author: GitHub User
 copyright: "Unpublished Work (cleft) 2017-{currentYear} {author}"
 
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Looking for a tech company built on integrity? You’ve found it — you’ve found us! Let’s get started.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
