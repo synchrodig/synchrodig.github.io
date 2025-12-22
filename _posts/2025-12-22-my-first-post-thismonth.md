@@ -6,8 +6,6 @@ categories: Websites
 tags: [Github, Website]
 ---
 
-## How I built my new Website
-
 1. I created a GitHub account
 2. I forked a repository from https://github.com/jeffreytse/jekyll-theme-yat/tree/master
 3. I renamed the forked repository synchrodig.github.io
