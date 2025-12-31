@@ -24,7 +24,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your Technology Companion
+title: Your Tech Pal
 email: job.county@yahoo.com
 author: GitHub User Synchrodig
 
